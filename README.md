@@ -15,7 +15,7 @@ The aim of our platform is to create a collaborative system for registering and 
 #### Demo Accounts
 For demo purposes, we have provided pre-existing accounts:
 - **Administrator**: Username: admin | Password: admin1234
-- **Citizen**: Username: politis1 | Password: 1234
-- **Rescuer**: Username: rescuer | Password: 1234
+- **Citizen**: Username: aston | Password: 1234
+- **Rescuer**: Username: martin | Password: 1234
 
 
